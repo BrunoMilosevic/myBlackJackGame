@@ -1,0 +1,24 @@
+body{
+    background-image: url("https://t4.ftcdn.net/jpg/03/25/38/41/360_F_325384191_sg1D5lYWfRedGQsBm8xIHnsSAUUUVxGE.jpg");
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+#yellowh1{
+    color: goldenrod;
+}
+
+button{
+    background-color:goldenrod;
+    color: green;
+    font-weight: bold;
+    margin: 5px 0 0 5px;;
+    padding: 2px 0 0 2px;
+    border: none;
+    border-radius: 2px;
+    width: 150px;
+    height: 25px;
+    
+}
